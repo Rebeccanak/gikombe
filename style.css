@@ -1,0 +1,142 @@
+.main{
+    margin-left: 10px;
+    margin-left: 10px;
+    background-image: url(image2/hot.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    
+}
+    ul{
+    display: flex;
+    display: inline-block;
+}
+li{
+    display: flex;
+    display: inline-block;
+    margin-left: 100px;
+    list-style: none;
+    font-size: 20px;
+    padding-left: 80px;
+    margin-right: -10%;
+    float: right;
+    margin-bottom: 200px;
+}
+#img{
+    padding: 0%;
+    width: 50px;
+}
+#gik{
+margin-bottom:-15px;
+color: blue;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+    font-size: 40px;
+    text-align: center;
+    margin-top: -100px;
+    color: blue;
+}
+#para{
+    font-size: 25px;
+    text-align: center;
+    margin-top: -40px;
+    color:black
+}
+.row{
+display: flex;
+}
+.img1{
+margin-left: px;
+
+}
+#img2{
+    margin-left: 140px;
+}
+#img3{
+    margin-left: 150px;
+}
+#design{
+    text-align: center;
+    font-size: 50px;
+    text-decoration: wavy;
+    color:hotpink
+}
+#jean1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+#style2{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+#splen3{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+
+.row2{
+    display: flex;
+    }
+    .img4{
+    margin-left: px;
+    
+    }
+    #img4{
+        margin-left: 140px;
+    }
+    #img5{
+        margin-left: 150px;
+    }
+    #jean4{
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: black;
+    }
+    #style5{
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: black;
+    }
+    #splen6{
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: black;
+    }
+    #more{
+        text-align: center;
+        font-size: 50px;
+        color: blueviolet;
+    }
+    #but1{
+        margin-left: 600px;
+        border: none;
+        color: aliceblue;
+        background-color: black;
+        text-align: center;
+        padding: 30px;
+        border-radius: 20px;
+    }
+    #but2{
+        border: none;
+        color: aliceblue;
+        background-color: black;
+        text-align: center;
+        padding: 30px;
+        border-radius: 20px;
+        margin-left: 600px;
+    }
+    h3{
+        color:red;
+        text-align: center;
+        font-size: 20px;
+    }
+    #nairobi{
+        text-align: center;
+        font-size: 20px;
+        color:black
+    }
+        
